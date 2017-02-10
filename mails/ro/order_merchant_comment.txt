@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hi {firstname} {lastname}, 
+
+Ai primit un nou mesaj de la {shop_name} cu privire la comanda cu
+numarul {order_name}.
+
+MESSAGE: {message} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

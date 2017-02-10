@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Hi {firstname} {lastname}, 
+
+We have updated the progress on your return #{id_order_return}, the
+new status is: "{state_order_return}"
+
+Aveti posibilitatea de a va revizui comanda si descarca factura de
+la "istoria comenzii" [{history_url}] sectiune a
+contului tau de client, facand clic pe "Contul meu"
+[{my_account_url}] de pe magazinul nostru. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

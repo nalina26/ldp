@@ -1,0 +1,70 @@
+
+[{shop_url}] 
+
+Hi {firstname} {lastname},
+
+Va multumim ca ati cumparat de la {shop_name}! 
+
+COMANDA: {order_name} Placed on {date}
+
+PLATA: {payment} 		 
+
+REFERINTA
+
+PRODUS
+
+UNIT PRICE
+
+CANTITATE
+
+PRET TOTAL
+
+{products_txt} 
+
+{discounts} 
+
+PRODUSE 
+
+{total_products} 
+
+DISCOUNTS 
+
+{total_discounts} 
+
+GIFT-WRAPPING 
+
+{total_wrapping} 
+
+LIVRARE 
+
+{total_shipping} 
+
+TAXE TOTALE PLATITE 
+
+{total_tax_paid} 
+
+TOTAL PLATIT 
+
+{total_paid} 
+
+CARRIER: {carrier}
+
+PLATA: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Aveti posibilitatea de a va revizui comanda si descarca factura de
+la "istoria comenzii" [{history_url}] sectiune a
+contului tau de client, facand clic pe "Contul meu"
+[{my_account_url}] de pe magazinul nostru. 
+
+Daca ai un cont de oaspete, va poti urmari comanda prin
+intermediul "urmarirea oaspetilor" sectia
+[{guest_tracking_url}?id_order={order_name}] din
+magazinul nostru. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

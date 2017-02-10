@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hi, 
+
+{firstname}{lastname} indica ca poate ai dori sa vedeti lista lui/ei
+de dorinte: {wishlist}
+
+{wishlist} [{message}] 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

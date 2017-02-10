@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Hi {firstname} {lastname}, 
+
+{employee} dorim sa inregistram discutia cu tine. 
+
+DISCUSSION HISTORY: {messages}
+
+{employee} a adaugat {comment} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
